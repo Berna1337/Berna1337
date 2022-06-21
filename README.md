@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Bernardo Cruz</h1>
-<h3 align="center">A passionate developer from Portugal 🇵🇹</h3>
+<img src="https://github.com/Berna1337/Berna1337/blob/main/github-readme-berna1337.svg"/>
