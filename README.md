@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Bernardo Cruz</h1>
-<h3 align="center">A passionate developer from Portugal</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=A277FF&center=true&vCenter=true&multiline=true&width=1012&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernardo+Cruz;A+passionate+developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;++++++++++++++++++++++)](https://git.io/typing-svg)
